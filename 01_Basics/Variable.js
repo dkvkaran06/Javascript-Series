@@ -10,4 +10,4 @@ accountPassword="23433"
 accountCity="Delhi"
 console.log(accountId) // for printing single 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]) 
-// for printing more things we use table
+// for printing more things we use table.de
