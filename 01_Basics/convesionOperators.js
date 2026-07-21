@@ -1,3 +1,4 @@
+/*
 let score="32" // a string
 let age="32abc"
 let abc=null
@@ -15,3 +16,33 @@ console.log(Vale)
 let a=1
 let b=Boolean(a)
 console.log(b)
+
+let a=3
+let b=-a
+console.log(b)
+console.log(3+3)
+console.log(3-3)
+console.log(3*3)
+console.log(3**2)
+console.log(3/4)
+console.log(3%4)
+
+let s1="Hello"
+let s2=" Dev"
+let s3=s1+s2
+console.log(s3)
+console.log("1"+3)
+console.log(1+"3")
+console.log("1"+3+3)
+console.log(1+3+"3")
+
+let a =""
+let b=Boolean(a)
+console.log(b)
+console.log(a)
+console.log(+true)
+console.log(+"")
+*/
+let a =104
+a++
+console.log(a)
