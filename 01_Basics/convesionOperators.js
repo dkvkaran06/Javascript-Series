@@ -40,9 +40,14 @@ let a =""
 let b=Boolean(a)
 console.log(b)
 console.log(a)
+*/
 console.log(+true)
 console.log(+"")
-*/
+
 let a =104
 a++
 console.log(a)
+let b=0
+console.log(b)
+let c=Boolean(b)
+console.log(c)
